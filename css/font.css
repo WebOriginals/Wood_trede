@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700,900&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
+body,
+input,
+textarea,
+button,
+select {
+    font: 300 16px 'Roboto', sans-serif, arial;
+    color: #252525;
+}
+
+.logotext {
+    font: 700 30px 'Oswald',
+    sans-serif,
+    arial;
+}
